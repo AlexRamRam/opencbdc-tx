@@ -54,12 +54,12 @@ namespace cbdc::logging {
         auto now = std::chrono::system_clock::now();
         auto now_t = std::chrono::system_clock::to_time_t(now);
         auto now_ms
-            = std::chrono::time_point_cast<std::chrono::milliseconds>(now);
+            = std::chrono::time_point_cast<std::chrono::microseconds>(now);
 
-        static constexpr int msec_per_sec = 1000;
+        static constexpr int msec_per_sec = 1000000;
         auto const now_ms_f = now_ms.time_since_epoch().count() % msec_per_sec;
         ss << std::put_time(std::localtime(&now_t), "[%Y-%m-%d %H:%M:%S.")
-           << std::setfill('0') << std::setw(3) << now_ms_f << "] ["
+           << std::setfill('0') << std::setw(6) << now_ms_f << "] ["
            << to_string(level) << "]";
     }
 
