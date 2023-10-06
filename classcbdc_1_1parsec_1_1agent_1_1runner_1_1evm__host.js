@@ -5,7 +5,7 @@ var classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host =
     [ "access_account", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#ae65aa2d919b459f601a0ad7bfbf3a167", null ],
     [ "access_storage", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a9cfb97c67f2bc952d593c6ec91a6c152", null ],
     [ "account_exists", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a7b3dfca9cd822b34a0b8220c506f69ef", null ],
-    [ "call", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a9fc068ad0fe130389273d4fc816d7b79", null ],
+    [ "call", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a9e4bcec2a23a45da7923058f64c798c7", null ],
     [ "copy_code", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a9b1c55194961d320617db59e09792d34", null ],
     [ "emit_log", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#ab10d0df32dead864870326507448ee37", null ],
     [ "finalize", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a5830a036d36432dcfc3254f15bab7f4e", null ],
@@ -20,7 +20,7 @@ var classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host =
     [ "insert_account", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a60bc4aeea056c85caa56de76a3b5fcf2", null ],
     [ "log_index_key", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#ab652294fefa609ac468f74a08e4ffaca", null ],
     [ "revert", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a667355b47aa6436680760b6e97f933b4", null ],
-    [ "selfdestruct", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a43d7bea62b377c238f45aca649d3b055", null ],
+    [ "selfdestruct", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#aba8533e5fa4d7895cf6b998a8999c903", null ],
     [ "set_storage", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#ab89f00d301697f37dc80ac95312dac04", null ],
     [ "should_retry", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a219acabf12c7bfb3df7ed24fc9d49f40", null ],
     [ "ticket_number_key", "classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__host.html#a6cf0fd9ce9cbec3fdfb7557d4d74be61", null ]
